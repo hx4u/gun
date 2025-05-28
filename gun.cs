@@ -85,7 +85,6 @@ class GunApp
         }
         if (!args.Contains("--noascii"))
         {
-	          Console.WriteLine(":                                  ");
             Console.WriteLine(": gun version 1.0 by @kil_l_y  ÆÆÆÆ");
             Console.WriteLine(": TOA x ÆRuSystems             ÆÆÆÆ");
             Console.WriteLine(":   _    ________     _        ÆÆÆÆ");
