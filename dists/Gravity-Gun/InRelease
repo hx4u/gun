@@ -1,0 +1,32 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Suite: LSD-Tools
+Codename: Gravity-Gun
+Date: Wed, 28 May 2025 21:37:35 UTC
+Architectures: amd64
+Components: main
+Description: gun repo
+MD5Sum:
+ 81c0beb1e1d4f49c9c37334a3585098b 516 main/binary-amd64/Packages
+ ee2f7de78ab495640e5a6e454f494635 389 main/binary-amd64/Packages.gz
+ 3cfb642946dc80320801ec7c50dbbfe6 77 main/binary-amd64/Release
+SHA1:
+ bb6f647dfc0ebd65f1ca007debd6d51bb3c24289 516 main/binary-amd64/Packages
+ a0761257d9101e9d8739fb668174a4b9aaa74fce 389 main/binary-amd64/Packages.gz
+ 0c9b76aafd34b200b6253601ae897c391766765c 77 main/binary-amd64/Release
+SHA256:
+ 2b4b031416588278ed1fcfcc928bd06d4c8b424f7e68c7599bafd8a471ac9de4 516 main/binary-amd64/Packages
+ 87fe8eea52dd8056ca1cfb0fd6930a06f97c98694fd0a499a2f50777dc01bd25 389 main/binary-amd64/Packages.gz
+ 17a4deeb6d744a970dbc9580d12848d47c6d15b03222fd12c3dcda757d24a733 77 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCgAdFiEEfUgkuW2NGL1+WJIbI+HJq/Bm48cFAmg3giMACgkQI+HJq/Bm
+48eUMAgAqUOiGaB9Bn7/XG+qtCFwJz+FemSje8oZfhfbQWL/hPdKTdzIeOOv/W6i
+x5uFUDqGvZf+JG/nYRt6qMg8D7js1sd0HsvpnnLN7yzrDcedV/FhRZTQQZv5UnO8
+5O/HhAyxt5TKYWOaQHaX6Sw3iEDBENzIlvothdnFx9q5KdHsPJQ04PwdTUDqD/iY
+pliCL2Ue+zN8UbGk53mxBYV+uMtcuZHY29hHdWC2/d1TrNStRmPIIfgnN72wrD6C
+rh2HffY26yZCnWNk1RR3J+gpAvvvIk5cHVjSX/cGrGpQamb0gcNDHFLq/FzYknIh
+m4683T+mZc495sZWk7GojA5L9xAMYw==
+=y863
+-----END PGP SIGNATURE-----

@@ -1,0 +1,9 @@
+Package: gun
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Depends: libc6 (>= 2.28)
+Maintainer: Lite Kira <killy9kl@gmail.com>
+Description: gun process manager. A tool to manage and kill processes. 
+Title: The most efficient command line process killing program ever made.

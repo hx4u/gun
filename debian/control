@@ -1,0 +1,15 @@
+Source: gun
+Section: utils
+Priority: optional
+Maintainer: Lite Kira <killy9kl@gmail.com>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.5.1
+Homepage: https://gtihub.com/hx4u/gun
+Rules-Requires-Root: no
+
+Package: gun
+Architecture: amd64
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Gun process management utility
+ A lightweight utility for managing and terminating processes on Linux.
+ Includes batch killing, interactive modes, and a clean CLI interface.
